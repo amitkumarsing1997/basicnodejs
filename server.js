@@ -3,7 +3,7 @@ var bodyParser=require('body-parser');
 var router=require("./router");
 var app=express();
 
-
+//this is by amit fow amazon aws
 //middleware configuration
 
 app.use(bodyParser.urlencoded({extended:true}));
